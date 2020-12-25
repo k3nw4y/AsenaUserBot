@@ -12,7 +12,7 @@
 </p>
 
 ----
-! [Docker Pulls] (https://img.shields.io/docker/pulls/fusuf/asenauserbot?style=flat-square)! [Docker Image Size (latest by date)] (https: //img.shields. io / docker / image-size / fusuf / asenauserbot? style = flat-square)
+![Docker Pulls] (https://img.shields.io/docker/pulls/fusuf/asenauserbot?style=flat-square)! [Docker Image Size (latest by date)] (https: //img.shields. io / docker / image-size / fusuf / asenauserbot? style = flat-square)
 ## Setup
 ### Very Simple Method
 [Youtube Video] (https://www.youtube.com/watch?v=mUUQ53TYqI0)! [YouTube Video Views] (https://img.shields.io/youtube/views/mUQ53TYqI0?style=flat-square)
@@ -21,23 +21,23 @@
 
 ** iOS: ** Open iSH and paste this code: `apk update && apk add bash && apk add curl && curl -L -o asena_installer.sh https://t.ly/vATX && chmod + x asena_installer.sh && bash asena_installer.sh`
 
-** Windows 10: Download ** [Python] (https://www.microsoft.com/en-us/p/python-38/9mssztt1n39l#activetab=pivot:overviewtab) then PowerShell paste this code: `Invoke-Expression (New-Object System.Net.WebClient) .DownloadString ('https://kutt.it/aYTzCx') '
+**Windows 10:** [Python](https://www.microsoft.com/en-us/p/python-38/9mssztt1n39l#activetab=pivot:overviewtab) then PowerShell paste this code: `Invoke-Expression (New-Object System.Net.WebClient) .DownloadString ('https://kutt.it/aYTzCx') '
 
 ### Simple Method
-If you have no idea how to install the bot, read here: [Installation Guide] (https://github.com/Quiec/AsenaUserBot/wiki/Setup/)
+If you have no idea how to install the bot, read here: [Installation Guide](https://github.com/Quiec/AsenaUserBot/wiki/Setup/)
 
-[! [Deploy] (https://www.herokucdn.com/deploy/button.svg)] (https://heroku.com/deploy?template=https://github.com/Quiec/AsenaUserBot)
+[![Deploy] (https://www.herokucdn.com/deploy/button.svg)] (https://heroku.com/deploy?template=https://github.com/Quiec/AsenaUserBot)
 ### Hard Method
-`` '' python
+``` python
 git clone https://github.com/Quiec/AsenaUserBot.git
 cd AsenaUserBot
 pip install -r requirements.txt
 # Create and edit config.env. #
 python3 main.py
-``
+```
 
 ## Sample Plugin
-`` '' python
+```python
 from userbot.events import register
 from userbot.cmdhelp import CmdHelp # <- Add this.
 
@@ -54,22 +54,22 @@ Help.add_command ('try', # Command
 Help.add_info ('Made by @ Fusuf.') # You can add information.
 # Or warning -> Help.add_warning ('DO NOT USE!')
 Help.add () # And Let's Add.
-``
+```
 
 ## Information
-If you have any requests & complaints & suggestions, you can reach the [support group] (https://t.me/AsenaSupport).
+If you have any requests & complaints & suggestions, you can reach the [support group](https://t.me/AsenaSupport).
 
-``
+```
     Due to Userbot; Your Telegram account may be banned.
     This is an open source project, you are responsible for everything you do. Absolutely, Asena executives do not accept responsibility.
     By establishing the Asena, you are deemed to have accepted these responsibilities.
-``
+```
 
 ## Credit
 Thanks for;
 
-[Seden UserBot] (https://github.com/TeamDerUntergang/Telegram-UserBot)
+[Seden UserBot](https://github.com/TeamDerUntergang/Telegram-UserBot)
 
-[Userge] (https://github.com/UsergeTeam/Userge)
+[Userge](https://github.com/UsergeTeam/Userge)
 
-[Spechide] (https://github.com/Spechide)
+[Spechide](https://github.com/Spechide)
