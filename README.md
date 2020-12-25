@@ -12,10 +12,10 @@
 </p>
 
 ----
-![Docker Pulls] (https://img.shields.io/docker/pulls/fusuf/asenauserbot?style=flat-square)! [Docker Image Size (latest by date)] (https: //img.shields. io / docker / image-size / fusuf / asenauserbot? style = flat-square)
+![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/asenauserbot?style=flat-square)! [Docker Image Size (latest by date)](https: //img.shields. io / docker / image-size / fusuf / asenauserbot? style = flat-square)
 ## Setup
 ### Very Simple Method
-[Youtube Video] (https://www.youtube.com/watch?v=mUUQ53TYqI0)! [YouTube Video Views] (https://img.shields.io/youtube/views/mUQ53TYqI0?style=flat-square)
+[Youtube Video](https://www.youtube.com/watch?v=mUUQ53TYqI0)! [YouTube Video Views](https://img.shields.io/youtube/views/mUQ53TYqI0?style=flat-square)
 
 ** Android: ** Open Termuxu and paste this code: `bash <(curl -L https://kutt.it/88I5KA) '
 
