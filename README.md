@@ -17,11 +17,11 @@
 ### Very Simple Method
 [Youtube Videos](https://www.youtube.com/watch?v=mUUQ53TYqI0) ![YouTube Video Views](https://img.shields.io/youtube/views/mUUQ53TYqI0?style=flat-square)
 
-** Android: ** Open Termuxu and paste this code: `bash <(curl -L https://kutt.it/88I5KA) '
+**Android:** Open Termuxu and paste this code: `bash <(curl -L https://kutt.it/88I5KA)`
 
-** iOS: ** Open iSH and paste this code: `apk update && apk add bash && apk add curl && curl -L -o asena_installer.sh https://t.ly/vATX && chmod + x asena_installer.sh && bash asena_installer.sh`
+**iOS:** Open iSH and paste this code: `apk update && apk add bash && apk add curl && curl -L -o asena_installer.sh https://t.ly/vATX && chmod + x asena_installer.sh && bash asena_installer.sh`
 
-**Windows 10:** [Python](https://www.microsoft.com/en-us/p/python-38/9mssztt1n39l#activetab=pivot:overviewtab) then PowerShell paste this code: `Invoke-Expression (New-Object System.Net.WebClient) .DownloadString ('https://kutt.it/aYTzCx') '
+**Windows 10:** [Python](https://www.microsoft.com/en-us/p/python-38/9mssztt1n39l#activetab=pivot:overviewtab) then PowerShell paste this code: `Invoke-Expression (New-Object System.Net.WebClient) .DownloadString ('https://kutt.it/aYTzCx') `
 
 ### Simple Method
 If you have no idea how to install the bot, read here: [Installation Guide](https://github.com/Quiec/AsenaUserBot/wiki/Setup/)
