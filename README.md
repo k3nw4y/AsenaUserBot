@@ -26,7 +26,7 @@
 ### Simple Method
 If you have no idea how to install the bot, read here: [Installation Guide](https://github.com/Quiec/AsenaUserBot/wiki/Setup/)
 
-[![Deploy] (https://www.herokucdn.com/deploy/button.svg)] (https://heroku.com/deploy?template=https://github.com/Quiec/AsenaUserBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/k3nw4y/AsenaUserBot)
 ### Hard Method
 ``` python
 git clone https://github.com/Quiec/AsenaUserBot.git
